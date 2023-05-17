@@ -8,5 +8,5 @@
 1. `Download ZIP` lalu *extract* ke tujuan yang diinginkan (*misal C:\CLientGUI*).
 2. Buat `ServerConfig.txt` yang berisikan (per baris): `IP Server, Port Database, Nama Database, Username Database, Password Database`.
 3. Jalankan `ClientSetup.exe`, pilih `Existing PC` jika Client sebelumnya sudah ada di Database atau `New PC` jika Client tidak ada di Database.
-4. Buat Shortcut dari `ClientGUI.exe` di folder Startup.
+4. Buat Shortcut dari `ClientGUI.exe` di folder `Startup` di PC Client.
 5. Restart PC Client (Supaya program `Client GUI` dapat berjalan).
